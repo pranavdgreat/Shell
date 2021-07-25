@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Build from GitHub"
+echo Build from GitHub
